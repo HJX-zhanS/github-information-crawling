@@ -1,6 +1,8 @@
 github information crawling
 ===========================
 
+
+
 ## Operating environment
 
 Python3 + MySQL
@@ -62,4 +64,4 @@ This program starts at the function `start()`. Firstly, it will call the `recove
 <br>
 (3) connect this user' s `Repositories` to collect the project information.
 <br> 
-(4)collect user links from the `Star` and `Watch` of each project of the `repositories` of this user.
+(4) collect user links from the `Star` and `Watch` of each project of the `repositories` of this user.
