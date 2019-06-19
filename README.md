@@ -9,3 +9,8 @@ English:
 
 1.Recovery the database "github_info" to the your computer, then modify pool=PooledDB(pymysql,50,host='localhost',user='root',passwd='123456',db='github_info',port=3306,charset="utf8"). The user is the username of your database, the passwd is the password of your database.
 2.Run this program after 1.
+
+
+我需要收集的信息如下图所示，包含项目信息和用户信息。
+ ![image](https://github.com/HJX-zhanS/github-information-crawling/blob/master/userinfo.png)
+ ![image](https://github.com/HJX-zhanS/github-information-crawling/blob/master/userinfo.png)
