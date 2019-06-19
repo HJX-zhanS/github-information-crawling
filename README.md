@@ -1,4 +1,5 @@
 Python3 + MySQL
+===============
 
 中文：
 
@@ -11,6 +12,8 @@ English:
 2.Run this program after 1.
 
 
-我需要收集的信息如下图所示，包含项目信息和用户信息。
+The information I need to collect is shown in these 2 figures. One is the project information, another is the user information.
  ![image](https://github.com/HJX-zhanS/github-information-crawling/blob/master/projectinfo.png)
  ![image](https://github.com/HJX-zhanS/github-information-crawling/blob/master/userinfo.png)
+ 
+ 
