@@ -12,5 +12,5 @@ English:
 
 
 我需要收集的信息如下图所示，包含项目信息和用户信息。
- ![image](https://github.com/HJX-zhanS/github-information-crawling/blob/master/userinfo.png)
+ ![image](https://github.com/HJX-zhanS/github-information-crawling/blob/master/projectinfo.png)
  ![image](https://github.com/HJX-zhanS/github-information-crawling/blob/master/userinfo.png)
